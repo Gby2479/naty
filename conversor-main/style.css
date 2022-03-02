@@ -1,0 +1,20 @@
+body{
+    background-color: #0000CD;
+}
+h1{
+    color: #FFFF;
+    text-align: center;
+}
+#tabela{
+    border:3px solid white;
+    border-radius: 9px;
+    padding: 55px;
+    margin: 80px;
+}
+.text{
+    border:3px solid white;
+    border-radius: 15px;
+}
+p{
+    color: white;
+}
